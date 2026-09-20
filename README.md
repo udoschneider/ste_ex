@@ -343,10 +343,10 @@ wants a different shape, and none of it needs to be in a library.
 
 ## Vendored data
 
-`priv/openste/` holds the [OpenSTE](https://www.openste.org/) wordset: 1,951
-words (909 approved, 1,042 unapproved) and 1,589 alternative mappings, MIT
-licensed, © openSTE.org. It is committed to this repository and ships inside the
-released package. Nothing is downloaded while you build.
+`priv/openste/` holds the [OpenSTE](https://github.com/openste/openste)
+wordset: 1,951 words (909 approved, 1,042 unapproved) and 1,589 alternative
+mappings, MIT licensed, © openSTE.org. It is committed to this repository and
+ships inside the released package. Nothing is downloaded while you build.
 
 OpenSTE is an independent re-derivation of the one-approved-word-per-concept
 idea, published under its own licence precisely so that tools can ship it. No ASD
